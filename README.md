@@ -7,7 +7,7 @@ Supports PrestaShop **1.6** & **1.7**
 
 ## Installation
 
-Download the compressed version from Releases page ([3.4.2](https://github.com/ClickPaycom/ClickPay-prestashop/releases/download/3.4.2/ClickPay_paypage.zip))
+Download the compressed version from Releases page (https://github.com/clickpaysa/Clickpay-Prestashop/releases/tag/3.4.2))
 
 *Then use of of the following 2 mehods:*
 

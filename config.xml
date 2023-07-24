@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>clickpay_paypage</name>
+    <displayName><![CDATA[Clickpay - PayPage]]></displayName>
+    <version><![CDATA[3.4.2]]></version>
+    <description><![CDATA[A simple payment gateway that can be quickly integrated with merchant websites and it enables fast deposit of payments to the merchant account. Equipped with PCI DSS certification and anti-fraud protection.]]></description>
+    <author><![CDATA[Clickpay]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall this module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
